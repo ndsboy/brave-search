@@ -39,6 +39,7 @@
 
 1. Install Stylus [Firefox](https://addons.mozilla.org/en-GB/firefox/addon/styl-us/)/[Chrome](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) extension.
 2. [Click here to install.](https://github.com/catppuccin/brave-search/raw/main/catppuccin.user.css)
+3. Set theme to dark or light in Brave Search settings, the automatic setting will not work.
 
 ## 💝 Thanks to
 
